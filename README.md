@@ -58,8 +58,8 @@ Follow these instructions to run the project locally:
 ### **1. Clone the Repository**
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone <https://github.com/victot0121/E-commerce-Product-Catalog>
+cd <E-commerce-Product-Catalog>
 ```
 
 ### **2. Install Dependencies**
